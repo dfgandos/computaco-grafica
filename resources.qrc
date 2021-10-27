@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>vgouraud.glsl</file>
+        <file>vnormal.glsl</file>
+        <file>vphong.glsl</file>
+        <file>vtexture.glsl</file>
+        <file>fgouraud.glsl</file>
+        <file>fnormal.glsl</file>
+        <file>fphong.glsl</file>
+        <file>ftexture.glsl</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>bricksNormal.png</file>
+        <file>bricksDiffuse.png</file>
+    </qresource>
+</RCC>
